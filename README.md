@@ -18,15 +18,11 @@
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsQAdPey.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/1.jpg) 
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpssDiyWD.png) 
-
- 
-
- 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/2.jpg) 
 
  
 
@@ -58,7 +54,11 @@
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsmSGHFM.png) 
+ 
+
+ 
+
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/3.jpg) 
 
  
 
@@ -78,7 +78,7 @@
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsDHPj5Q.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/4.jpg) 
 
  
 
@@ -122,7 +122,7 @@ Amd
 
 amd1、2代12nm
 
-三代7nm![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wps3MqHWz.jpg)
+三代7nm![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/5.jpg)
 
  
 
@@ -186,7 +186,7 @@ amdTurbo Core技术是多核产品上的一种智能调频技术，增强多核�
 
 两个技术都可以实现自动超频。
 
-AMD多核占优的原因：工艺散热限制核心组排布、由于多方面因素和挤牙膏的因素和物理架构的原因，导致intel在多核心上表现不优![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsLIzRyM.png)
+AMD多核占优的原因：工艺散热限制核心组排布、由于多方面因素和挤牙膏的因素和物理架构的原因，导致intel在多核心上表现不优![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/6.jpg)
 
  
 
@@ -266,7 +266,7 @@ CPU架构越先进,工艺越小，功耗越低。
 
 LGA：Intel CPU采用的封装方式
 
-LGA封装是最常见的，LGA全称“land grid array”，或者叫“平面网格阵列封装”，我们平时常见的Intel CPU基本都采用了这样的封装方式。![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsmgejcu.png)
+LGA封装是最常见的，LGA全称“land grid array”，或者叫“平面网格阵列封装”，我们平时常见的Intel CPU基本都采用了这样的封装方式。![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/7.jpg)
 
  
 
@@ -298,7 +298,7 @@ LGA封装是最常见的，LGA全称“land grid array”，或者叫“平面�
 
 PGA：主流的AMD CPU采用的封装方式
 
-PGA的全称叫做“pin grid array”，或者叫“插针网格阵列封装”，主流的AMD CPU，以及早期的酷睿移动MQ系列基本都采用了PGA封装方式![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsoyTaN5.png)
+PGA的全称叫做“pin grid array”，或者叫“插针网格阵列封装”，主流的AMD CPU，以及早期的酷睿移动MQ系列基本都采用了PGA封装方式![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/8.jpg)
 
  
 
@@ -334,7 +334,7 @@ PGA的全称叫做“pin grid array”，或者叫“插针网格阵列封装”
 
 BGA：intel所有低压CPU采用的封装方式
 
-BGA的全称叫做“ball grid array”，或者叫“球柵网格阵列封装”。目前，绝大部分的intel移动CPU都使用了这种封装方式，例如intel所有以H、HQ、U、Y等结尾（包括但不限低压）的处理器。![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wps6Mrpin.png)
+BGA的全称叫做“ball grid array”，或者叫“球柵网格阵列封装”。目前，绝大部分的intel移动CPU都使用了这种封装方式，例如intel所有以H、HQ、U、Y等结尾（包括但不限低压）的处理器。![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/9.jpg)
 
  
 
@@ -400,7 +400,7 @@ A字母开头：入门级，不支持超频，普通办公用户使用，价格�
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpseC4JQg.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z1.jpg) 
 
  
 
@@ -458,7 +458,7 @@ AMD
 
 如今的把针脚放在处理器底部，采用针脚栅格阵列封装PGA（pin grid array），主板的插槽有小孔来拔插cpu针脚（AM3+，FM1，FM2，FM2+,AM4）
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpshiLYFU.png)![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsDglnCb.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z2.jpg)![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z21.jpg) 
 
  
 
@@ -488,7 +488,7 @@ PCI-E x4插槽的长度为39mm，同样是在PCI-E x16插槽的基础上，以�
 
 PCI-E x1插槽的长度是最短的，仅有25mm，相比PCI-E x16插槽，其数据针脚是大幅度减少至14个。
 
-PCI-E x1插槽的带宽通常由主板芯片提供，主要用途是独立网卡、独立声卡、USB 3.0/3.1扩展卡等都会用到PCI-E x1插槽，甚至可以通过转接线给PCI-E![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpstqZHYr.jpg) x1插槽装上显卡，用来挖矿或者实现多屏输出。
+PCI-E x1插槽的带宽通常由主板芯片提供，主要用途是独立网卡、独立声卡、USB 3.0/3.1扩展卡等都会用到PCI-E x1插槽，甚至可以通过转接线给PCI-E![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z3.jpg) x1插槽装上显卡，用来挖矿或者实现多屏输出。
 
  
 
@@ -530,7 +530,7 @@ SATA-e
 
 M.2
 
-U.2相对于M.2速度更快，但仍不成熟![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wps71wdpd.png)
+U.2相对于M.2速度更快，但仍不成熟![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z4.jpg)
 
  
 
@@ -562,7 +562,7 @@ AUDIO，10pin少针脚，少的在内部(一般右上角往里边走一个)
 power sw/reset sw 开关机/重启
 
 HDDLED 硬盘指示灯 
-Power LED开关机指示灯 ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsuMbzvA.jpg)
+Power LED开关机指示灯 ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z5.jpg)
 
  
 
@@ -626,7 +626,7 @@ BIOS芯片，一组固化到计算机内主板上一个ROM芯片上的程序，�
 
 7南桥、北桥：北桥负责与CPU通信，并且连接高速设备（内存/显卡），并且与南桥通信，以前基本是独立的，现在基本集成在CPU内；南桥负责与低速设备（硬盘/USB）通信，时钟/BIOS/系统管理/旧式设备控制，并且与北桥通信，南桥一般需要配备散热。
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsCc1rqZ.jpg) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/z6.jpg) 
 
  
 
@@ -724,7 +724,7 @@ Nvidia：
 
 10代为最新的Pascal架构，8、9都为Maxwell架构，6、7为Kepler架构，之前依次为Fermi架构、Tesla架构，
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsWfk97K.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/x1.jpg) 
 
  
 
@@ -740,7 +740,7 @@ RDNA1,RDNA2（之前的较为古老，不再列举）
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsORG9LG.jpg) |
+|      | ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/x2.jpg) |
 
 
 
@@ -760,7 +760,7 @@ RDNA1,RDNA2（之前的较为古老，不再列举）
 
 6一些其他技术
 
-6.1垂直同步技术![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsxF5fA5.jpg)
+6.1垂直同步技术![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/x3.jpg)
 
  
 
@@ -886,7 +886,7 @@ DDR种类
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpslwgGn8.png) |
+|      | ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/n1.jpg) |
 
 
 
@@ -925,7 +925,7 @@ DDR种类
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsOqUJTg.png) |
+|      | ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/n2.jpg) |
 
 
 
@@ -987,7 +987,7 @@ HDD转速一般为5400或7200以及少数10000，单位为RPM，意为转/每分
 
 SATA
 
-M.2![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsYkd4Yg.png)
+M.2![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/g1.jpg)
 
  
 
@@ -1037,7 +1037,7 @@ SATA接口无法走PCI-e总线
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsdYYbHf.png) |
+|      | ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/g2.jpg) |
 
  
 
@@ -1083,7 +1083,7 @@ M.2接口走PCI-e总线Nvme协议上限3200mb/s
 
 2电源转换效率：钛金，白金，金牌，银牌，铜牌，白牌，没牌的
 
-常见的认证标准80plus行业认证，如下图![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wps0b7Big.jpg)
+常见的认证标准80plus行业认证，如下图![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/battery.jpg)
 
  
 
@@ -1119,7 +1119,7 @@ CPU和显卡是硬件中功耗消耗较大，所以取这两个硬件的TDP功�
 
  
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsyiBzke.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/s1.jpg) 
 
  
 
@@ -1135,7 +1135,7 @@ CPU和显卡是硬件中功耗消耗较大，所以取这两个硬件的TDP功�
 
 一体水冷根据使用对象分为cpu一体水冷和显卡一体水冷，根据规格有120，240，280和360冷排，有原厂和个人改一体式水冷。
 
-组件主要包含冷排、水泵、水冷管、风扇![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsMPmGha.jpg)
+组件主要包含冷排、水泵、水冷管、风扇![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/s2.jpg)
 
  
 
@@ -1169,7 +1169,7 @@ mini机箱一般是指能够安装ITX（一般认为<20L，不带独显的被称
 
 3mini机箱（ITX主板）需要注意的点：
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpszgt9nH.png) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/box.jpg) 
 
  
 
@@ -1211,13 +1211,13 @@ mini机箱一般是指能够安装ITX（一般认为<20L，不带独显的被称
 
 3分辨率
 
-通常与尺寸有较大关系![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsksukGc.jpg)
+通常与尺寸有较大关系![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/sc1.jpg)
 
 精确一点的话通过PPI来进行比较
 
 （from wiki）每英寸像素（英语：Pixels Per Inch，缩写：PPI），又被称为像素密度，是一个表示打印图像或显示器单位面积上像素数量的指数。一般用来计量电脑显示器，电视机和手持电子设备屏幕的精细程度。通常情况下，每英寸像素值越高，屏幕能显示的图像也越精细。
 
-![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpsOAKxMK.jpg) 
+![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/sc2.jpg) 
 
  
 
@@ -1231,7 +1231,7 @@ mini机箱一般是指能够安装ITX（一般认为<20L，不带独显的被称
 
 通常与显卡的帧率有较大关系，最终呈现在用户面前的是min(显卡帧率，显示器刷新率)。
 
-显卡厂商为了解决帧率小于显示器刷新率的问题研发了垂直同步技术![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpshpAT0s.jpg)
+显卡厂商为了解决帧率小于显示器刷新率的问题研发了垂直同步技术![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/sc3.jpg)
 
  
 
@@ -1305,7 +1305,7 @@ mini机箱一般是指能够安装ITX（一般认为<20L，不带独显的被称
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](file:////private/var/folders/8g/cp8l_5z55xxc34m69qdrf1q40000gn/T/com.kingsoft.wpsoffice.mac/wps-aczy156/ksohtml/wpseWPqPA.png) |
+|      | ![img](https://github.com/Aczy156/WF2020-Hardware-Training/images/sc4.jpg) |
 
  
 
